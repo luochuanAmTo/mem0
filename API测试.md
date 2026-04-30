@@ -31,9 +31,9 @@ output：
 
 所有数据都存储在 Mem0 平台托管的云端基础设施中，包括原始文本、嵌入向量以及元数据，
 
-![image-20260430163447814](F:\mem0\assets\image-20260430163447814.png)
+![image-20260430163447814](.\assets\image-20260430163447814.png)
 
-<img src="F:\mem0\assets\image-20260428095056927.png" alt="image-20260428095056927" />
+<img src=".\assets\image-20260428095056927-1777538482235-1.png" alt="image-20260428095056927" />
 
 
 
@@ -96,3 +96,4 @@ for mem in results.get("results", []):
 {'results': [{'id': 'a77cad16-2cf2-4aea-b440-234ffba07720', 'memory': "User's name is Alex, follows a vegetarian diet, and has a nut allergy", 'user_id': 'alex', 'agent_id': None, 'app_id': None, 'run_id': None, 'score': 0.1262, 'metadata': {}, 'categories': ['personal_details', 'food', 'user_preferences', 'health'], 'created_at': '2026-04-25T02:43:10+00:00', 'updated_at': '2026-04-25T02:43:15.552994+00:00'}]}
 
 进程已结束，退出代码为 0
+
