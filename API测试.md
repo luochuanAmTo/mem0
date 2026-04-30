@@ -31,9 +31,9 @@ output：
 
 所有数据都存储在 Mem0 平台托管的云端基础设施中，包括原始文本、嵌入向量以及元数据，
 
-![image-20260428185918510](C:\Users\AmTo2\AppData\Roaming\Typora\typora-user-images\image-20260428185918510.png)
+![image-20260430163447814](F:\mem0\assets\image-20260430163447814.png)
 
-<img src="C:\Users\AmTo2\AppData\Roaming\Typora\typora-user-images\image-20260428095056927.png" alt="image-20260428095056927" />
+<img src="F:\mem0\assets\image-20260428095056927.png" alt="image-20260428095056927" />
 
 
 
