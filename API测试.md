@@ -3,7 +3,7 @@ import os
 from mem0 import MemoryClient
 
 client = MemoryClient(
-    api_key="m0-t3Lj5Ks8WWpKyVXHtwFhXcXvbHqUIGWAWgWDhRUu"
+    api_key="m0-###"
 )
 messages = [
     {"role": "user", "content": "Hi, I'm Alex. I'm a vegetarian and I'm allergic to nuts."},
@@ -50,7 +50,7 @@ from mem0 import MemoryClient
 
 # 初始化客户端
 client = MemoryClient(
-    api_key="m0-t3Lj5Ks8WWpKyVXHtwFhXcXvbHqUIGWAWgWDhRUu"
+    api_key="m0-###"
 )
 
 # 添加记忆
